@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    margin-top: 100px;
+    margin-left: 400px;
+    width: 600px;
+    padding-left: 50px;
+}
+
+h2 {
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+
+.btn.btn-success {
+    width: 550px;
+}
+
+
